@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tieml>
+    <s eventid="0" duration="">
+        <c eventid="1"  tense="PRES" E="1" R="1" S="0">
+            وتعد الخطوط القطرية -المملوكة للدولة- من بين عدد قليل من شركات الطيران 
+            <!-- the state-owned Qatar Airways is among the few airlines that -->
+        </c>
+                
+        <c eventid="2" tense="PAST"  E="-1" R="-1" S="0">
+            التي ،اصلت تسيير رحلات منتظمة في ظل إجراءات العزل الرامية لاحتواء فيروس كورونا المستجد
+            <!-- continued to operate regular flights in light of the general isolation measures aimed at containing the emerging COVID-19 -->
+        </c>
+                
+        <c eventid="3" tense="PAST"  E="-1" R="-1" S="0">
+            إذ أبقت على تسيير الرحلات إلى نحو 30 وجهة  
+            <!-- as it kept flights to about 30 destinations-->
+        </c>
+    </s>
+</tieml>

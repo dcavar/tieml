@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tieml>
+        <s eventid="0" duration="">
+            <c event="1"  tense="PAST" perfect="TRUE"  E="-1" R="-1" S="0" reference = "בצהריים"> 
+                    השער היציג של הדולר נקבע בצהריים (יום שני) על 3.24 שקלים
+                <!-- The dollar exchange rate was set at noon (on Monday) at 3.24 shekel -->
+            </c>,
+            <c event="2" tense="PAST" perfect="TRUE" E="-1" R="-1" S="0"> 
+                    ירידה של 0.46% לעומת יום שישי
+                <!-- a decrease of 0.46% compared to Friday. -->
+            </c>.
+        </s>
+</tieml>

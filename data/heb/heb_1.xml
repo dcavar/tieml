@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tieml>
+        <s eventid="0" duration="">
+            <c event="1"  tense="PRES" progressive="TRUE"  E="1" R="1" S="0">
+                הדולר ממשיך </c>
+            <!-- Dollar continues -->
+            <c event="2" tense="INF">
+                להיחלש מול השקל </c>
+            <!-- to decline against the shekel -->
+            <c event="3" tense="PRES"  progressive="TRUE" E="1" R="1" S="0">
+                ובנק ישראל לא מתערב במסחר
+            <!-- and Bank of Israel does not interfere -->
+            </c>
+        </s>
+</tieml>

@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tieml>
     <s eventid="0" duration="" >
-        <c eventid="1" timeslot="2" tense="sp" E="1" R="1" S="2" rt="2-0"> 
+        <c eventid="1" timeslot="2" tense="PAST" E="-1" R="-1" S="0"> 
             التقى أحمد بصديقه </c>
-        <c eventid="2" timeslot="1" tense="sp" E="1" R="1" S="2" rt= "الثلاثاء الماضي" > 
+        <c eventid="2" timeslot="1" tense="PAST" E="-1" R="-1" S="0" reference= "الثلاثاء الماضي" > 
                 بعد أن زار والده الثلاثاء الماضي 
       <!-- Ahemd met with his friend after he visited his father last Tuesday  -->
        </c>
     </s>
     
-    <s eventid="0">
-        <c eventid="3" timeslot="3" tense="sp" E="1" R="1" S="2" rt="1">
+    <s eventid="0" duration="">
+        <c eventid="3" timeslot="3" tense="PAST" E="-1" R="-1" S="0">
             سارة تناولت غداءها
             <!-- Sarah had her lunch -->
         </c>
     </s>
     
-    <s eventid="0">
-        <c eventid="4" timeslot="4" tense="sp" E="1" R="1" S="2" rt="3"> 
+    <s eventid="0" duration="">
+        <c eventid="4" timeslot="4" tense="PAST" E="-1" R="-1" S="0"> 
             أخبر محمد أصدقاءه  
         </c>
-        <c eventid="5" timeslot="4" tense="f"  E="2" R="2" S="1" rt="بعد قليل" >
-            أنه سينصرف بعد قليل </c>
-        <!-- Muhammed told his friends that he is leaving in a while -->
+        <c eventid="5" timeslot="4" tense="FUT"  E="1" R="1" S="0" reference="بعد قليل" >
+            أنه سينصرف بعد قليل      
+            <!-- Muhammed told his friends that he is leaving in a while -->
+        </c>
     </s>
 </tieml>

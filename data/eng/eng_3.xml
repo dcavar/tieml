@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tieml>
+    <s eventid="0" duration = "">
+        <c eventid="1" tense="PAST" perfect="TRUE" E="-2" R="-1" S="0">
+           Josh had watched the movie.
+        </c>.
+    </s>
+</tieml>
