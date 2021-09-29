@@ -4,7 +4,7 @@ License: Apache License Version 2.0
 
 (C) 2021 by Ali Aljubailan, [Damir Cavar], [Billy Dickson], Soyoung Kim
 
-Brought to you by the [NLP-Lab] at Indiana University.
+Brought to you by the [NLP-Lab] at [Indiana University at Bloomington](https://www.indiana.edu/).
 
 
 ## Introduction
@@ -19,6 +19,11 @@ TIE-ML is a markup strategy and annotation schema to improve the productivity an
 
 
 ## Documentation
+
+
+## Publications
+
+- D. Cavar, B. Dickson, A. Aljubailan, S. Kim (2021) *[Temporal Information and Event Markup Language: TIE-ML Markup Process and Schema Version 1.0](https://arxiv.org/abs/2109.13892)*, In Proceedings of [SEMAPRO 2021](https://www.iaria.org/conferences2021/SEMAPRO21.html), Barcelona, Spain.
 
 
 
