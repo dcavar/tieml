@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tieml>
-    <s eventid="0" duration = "">
-        <c eventid="1" tense="PAST" E="-1" R="-1" S="0" reference="264 BC">
-            The first Punic War broke out on the island of Sicily in 264 BC
-        </c>.
-    </s>
+    <s duration="">
+        <c eventid="1" tense="PAST" E="-1" R="-1" S="0" reference="264 BC"> The first Punic War
+            broke out on the island of Sicily in 264 BC </c>. </s>
 </tieml>

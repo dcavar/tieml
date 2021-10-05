@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tieml>
-    <s eventid="0" duration = "">
-        <c eventid="1" tense="PRES" timeslot="2" E="0" R="0" S="0">
-            Prepare the vegetables
-        </c>
-        <c eventid="2" tense="PRES" timeslot="1" E="0" R="0" S="0">
-            after you start the oven
-        </c>.
+    <s duration="">
+        <c eventid="1" tense="PRES" timeslot="2" E="0" R="0" S="0"> Prepare the vegetables </c>
+        <c eventid="2" tense="PRES" timeslot="1" E="0" R="0" S="0"> after you start the oven </c>.
     </s>
 </tieml>
-
