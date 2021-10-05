@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tieml>
+<tieml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/dcavar/tieml/main/tieml.xsd">
     <s>
         <c eventid="1" tense="PAST" perfect="TRUE" E="-2" R="-1" S="0"> Josh had watched the movie.
-        </c>. </s>
+        </c>
+    </s>
     <s>
-        <c eventid="2" tense="FUTURE" perfect="FALSE" E="1" S="0"> He will walk home. </c>. </s>
+        <c eventid="2" tense="FUTURE" perfect="FALSE" E="1" S="0"> He will walk home. </c>
+    </s>
     <s duration="2h">
         <c eventid="3" tense="PAST" perfect="FALSE" E="-1" S="0"> He walked home for two hours.
-        </c>. </s>
+        </c>
+    </s>
     <s>
-        <c eventid="4" tense="PAST" E="-1" S="0"> He said </c>. <c eventid="5" tense="PRESENT" E="0"
-            S="0"> that he is tired. </c>. </s>
+        <c eventid="4" tense="PAST" E="-1" S="0"> He said </c>
+        <c eventid="5" tense="PRESENT" E="0" S="0"> that he is tired. </c>
+    </s>
     <s>
         <c eventid="6" tense="PRES" timeslot="2" E="0" R="0" S="0"> Prepare the vegetables </c>
-        <c eventid="7" tense="PRES" timeslot="1" E="0" R="0" S="0"> after you start the oven </c>.
+        <c eventid="7" tense="PRES" timeslot="1" E="0" R="0" S="0"> after you start the oven. </c>
     </s>
 </tieml>
