@@ -13,7 +13,7 @@
         </c>
     </s>
     <s>
-        <c eventid="4" tense="PAST" E="-1" S="0"> He said </c>
+        <c eventid="4" tense="PAST" eventtime="-1" S="0"> He said </c>
         <c eventid="5" tense="PRESENT" E="0" S="0"> that he is tired. </c>
     </s>
     <s>
