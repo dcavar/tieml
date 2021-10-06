@@ -13,12 +13,13 @@ TIE-ML is a markup strategy and annotation schema to improve the productivity an
 
 The TIE-ML XML annotation standard proposal comes with an XML Schema (using the 1.1 recommendation). To use the XML Schema in your own TIE-ML XML annotation files, include it in the following way:
 
+```xml
   <?xml version="1.0" encoding="UTF-8"?>
   <tieml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://nlp-lab.org/tieml.xsd">
     ...
   </tieml>
-
+```
 
 ## Sample Corpus
 
