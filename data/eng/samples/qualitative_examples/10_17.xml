@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tieml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/dcavar/tieml/main/tieml.xsd">
+    <s>
+        <c eventid="1" tense="PAST" perfect="TRUE" timeslot = "1"  E="-2" R="-1" S="0"> Yuna and Soyoung had made a plan (on Thursday)</c>
+        <c eventid="2" tense="INF" timeslot = "2"> to get together on Friday. </c>
+    </s>
+    <s>
+        <c eventid="3" tense="PAST"  E="-1" S="0"> Soyoung invited Billy.</c>
+    </s>
+    <s>
+        <c eventid="4" tense="PAST" timeslot = "1" E="-1" S="0">Yuna got to the restaurant first</c>
+        <c eventid="5" tense="PAST" timeslot = "2" E="-1" S="0">and got a table in the back corner</c>
+        <c eventid="6" tense="PAST" timeslot = "3" E="-1" S="0">and the waiter got three glasses of water</c>
+        <c eventid="7" tense="PAST" timeslot = "4" E="-1" S="0">before Billy and Soyoung arrived</c>
+    </s>
+    <s>
+        <c eventid="8" tense="PAST" timeslot = "1" E="-1" S="0">Soyoung and Billy arrived</c>
+        <c eventid="9" tense="PAST" timeslot = "2" E="-1" S="0">and happily joined the table</c>
+    </s>
+    <s>
+        <c eventid="10" tense="PAST" timeslot = "1" E="-1" S="0">Yuna had corned beef hash</c>
+        <c eventid="11" tense="PAST" timeslot = "1" E="-1" S="0">Billy had an omelet</c>
+        <c eventid="12" tense="PAST" timeslot = "1" E="-1" S="0">and Soyoung had eggs benedict</c>
+    </s>
+    <s>
+        <c eventid="13" tense="PAST" E="-1" S="0">Billy asked Yuna </c>
+        <c eventid="14" tense="PAST" perfect = "TRUE" E="-2" R="-1" S="0">where she had been in Bloomington.</c>
+    </s>
+    <s>
+        <c eventid="15" tense="PAST" E="-1" S="0">She said Chipolte</c>
+    </s>
+    <s>
+        <c eventid="16" tense="PAST" E="-1" S="0">She said</c>
+        <c eventid="17" tense="PRES" perfect = "TRUE" E="-1" R="0" S="0">she has been enjoying Bloomington so far.</c>
+    </s>
+    <s>
+        <c eventid="18" tense="PRES" perfect = "TRUE" E="-1" R="0" S="0">The food has been great.</c>
+    </s>
+    <s>
+        <c eventid="19" tense="PRES" E="0" S="0">She is from Ithaca</c>
+        <c eventid="20" tense="PRES" E="-1" R="0" S="0">and just moved to Bloomington.</c>
+    </s>
+</tieml>
